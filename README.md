@@ -14,6 +14,11 @@
 ## See Progress
 You can see the developpement Progress at [this page](http://github.com/users/ArtOS-Developper/projects/1).
 
+And with this progress bar... :)
+
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/43)
+
+
 ## Compare Two Versions
 
 [![Compare ArtOS Versions](/compare.PNG)](http://artos.infinityfreeapp.com/comparaison/)
