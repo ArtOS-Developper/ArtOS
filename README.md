@@ -10,6 +10,9 @@
 | Some Other Betas | --/--/--  |
 | 1.0  | 2022  |
 
+### For Developpers
+An beta version of MakeAnApp will be provided later on this month.
+
 ## See Progress
 You can see the developpement Progress at [this page](http://github.com/users/ArtOS-Developper/projects/1).
 
