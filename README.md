@@ -4,7 +4,7 @@
 ### ArtOS Antelope Canyon Relases Dates
 | Version  | Relase Date |
 | ------------- | ------------- |
-| Alpha 1  | More information in my podcast of the 14/11  |
+| Alpha 1  | More information in my podcast of the 21/11 (I'm sorry to keep putting it off...)  |
 | Beta 1  | November  |
 | Beta 2  | December  |
 | Some Other Betas | --/--/--  |
