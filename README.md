@@ -4,21 +4,21 @@
 ### ArtOS Antelope Canyon Relases Dates
 | Version  | Relase Date |
 | ------------- | ------------- |
-| Alpha 1  | More information in my podcast of the 21/11 (I'm sorry to keep putting it off...)  |
-| Beta 1  | November  |
-| Beta 2  | December  |
+| Developper Alpha | More information in my podcast of the 21/11 |
+| Beta 1  | December  |
+| Beta 2  | January  |
 | Some Other Betas | --/--/--  |
 | 1.0  | 2022  |
 
 ### For Developpers
-An beta version of MakeAnApp will be provided later on this month.
+An beta version of MakeAnApp will be distribute. For more information see my podcast this Sunday (21/11)
 
 ## See Progress
 You can see the developpement Progress at [this page](http://github.com/users/ArtOS-Developper/projects/1).
 
 And with this progress bar... :)
 
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/43)
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/48)
 
 
 ## Compare Two Versions
