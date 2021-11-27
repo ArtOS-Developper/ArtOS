@@ -4,7 +4,7 @@
 ### ArtOS Antelope Canyon Relases Dates
 | Version  | Relase Date |
 | ------------- | ------------- |
-| Developper Alpha | More information in my podcast of the 28/11 |
+| Developper Alpha | More information in my podcast of the 28/11 (Due to audio problems, the podcast will be available at 6pm)|
 | Beta 1  | December  |
 | Beta 2  | January  |
 | Some Other Betas | --/--/--  |
