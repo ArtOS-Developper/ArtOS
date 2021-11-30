@@ -4,7 +4,7 @@
 ### ArtOS Antelope Canyon Relases Dates
 | Version  | Relase Date |
 | ------------- | ------------- |
-| Developper Alpha | More information in my podcast of the 28/11 (Due to audio problems, the podcast will be available at 6pm)|
+| Developper Alpha | Go watch my podcast : https://www.youtube.com/watch?v=H-UMOp5rxIM |
 | Beta 1  | December  |
 | Beta 2  | January  |
 | Some Other Betas | --/--/--  |
@@ -18,7 +18,7 @@ You can see the developpement Progress at [this page](http://github.com/users/Ar
 
 And with this progress bar... :)
 
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/48)
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/51)
 
 
 ## Compare Two Versions
