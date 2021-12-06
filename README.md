@@ -5,7 +5,7 @@
 | Version  | Relase Date |
 | ------------- | ------------- |
 | Developper Alpha | Go watch my podcast : https://www.youtube.com/watch?v=H-UMOp5rxIM |
-| Beta 1  | December  |
+| Beta 1 & Developper Alpha | December 27 |
 | Beta 2  | January  |
 | Some Other Betas | --/--/--  |
 | 1.0  | 2022  |
