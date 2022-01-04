@@ -18,9 +18,4 @@ You can see the developpement Progress at [this page](http://github.com/users/Ar
 
 And with this progress bar... :)
 
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/56)
-
-
-## Compare Two Versions
-
-[![Compare ArtOS Versions](/compare.PNG)](http://artos.infinityfreeapp.com/comparaison/)
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/58)
