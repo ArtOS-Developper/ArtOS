@@ -1,6 +1,6 @@
 # ArtOS Antelope Canyon
 ## #ArtOSComeBack
-![DevState](/77B6E267-8A36-4E69-9690-D1EFECC1FFE2.PNG)
+![DevState](/devstate.PNG)
 ### ArtOS Antelope Canyon Relases Dates
 | Version  | Relase Date |
 | ------------- | ------------- |
