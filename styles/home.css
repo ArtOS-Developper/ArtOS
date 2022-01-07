@@ -1423,9 +1423,9 @@ border-radius:50%;
 
  100% {
 
-  -webkit-transform:translate(0,0) scale(.75);
+  -webkit-transform:translate(0,10) scale(.75);
 
-  transform:translate(0,0) scale(.75)
+  transform:translate(0,10) scale(.75)
 
  }
 
@@ -1433,9 +1433,9 @@ border-radius:50%;
 
  50% {
 
-  -webkit-transform:translate(35%,47%) scale(.25);
+  -webkit-transform:translate(35%,30%) scale(.25);
 
-  transform:translate(35%,47%) scale(.25)
+  transform:translate(35%,30%) scale(.25)
 
  }
 
@@ -1459,9 +1459,9 @@ border-radius:50%;
 
  50% {
 
-  -webkit-transform:translate(35%,47%) scale(.25);
+  -webkit-transform:translate(35%,30%) scale(.25);
 
-  transform:translate(35%,47%) scale(.25)
+  transform:translate(35%,30%) scale(.25)
 
  }
 
