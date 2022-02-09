@@ -18,4 +18,4 @@ You can see the developpement Progress at [this page](http://github.com/users/Ar
 
 And with this progress bar... :)
 
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/58)
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/60)
