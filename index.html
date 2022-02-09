@@ -21,7 +21,7 @@
 <script src="scripts/blog.js" async></script>
 <script src="scripts/showcase.run.js" async></script>
 </head>
-<body class="page-index">
+<body class="page-index" onload="CheckPageLanguage()">
 <nav>
 <div class="nav-content">
 <ul>
@@ -43,6 +43,20 @@
 <div class="section__detail grid">
 <div class="whole">
 <h1 id="logotype" alt="artos text"><img src="images/brand/artos.png" alt="ArtOS" height="80%" width="80%"></h1>
+
+<script>
+function CheckPageLanguage(){
+    switch(navigator.language)
+    {
+        case "en":
+            if(!(document.documentElement.lang === navigator.language)){ window.location.href = "./index.html"; }
+            break;
+        case "fr":
+            if(!(document.documentElement.lang === navigator.language)){ window.location.href = "./fr/index.html"; }
+            break;
+    }
+}
+</script>
 
 <p style="text-align:center;">Powerful, Simple, Perfect</p>
 </div>
