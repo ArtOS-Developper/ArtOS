@@ -20,6 +20,8 @@ Dark Theme ?
 ### For Developpers
 An beta version of MakeAnApp will be distributed later this year. Alternatively you can use Visual Studio or other an IDE.
 
+### See ArtOS Servers Issue(s)
+You can see all issue(s) linked to the ArtOS's servers here : [ArtOS Servers Status](https://artos-developper.github.io/ArtOS-Status/).
 ## See Progress
 You can see the developpement Progress at [this page](http://github.com/users/ArtOS-Developper/projects/1).
 
