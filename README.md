@@ -1,24 +1,19 @@
-# ArtOS Antelope Canyon
-## #ArtOSComeBack
-![DevState](/devstate.PNG)
+# ArtOS 1.1 Majorque
+![DevStateMajorque](/artos-majorque.png)
 
-### ScreenShoots
-![DevState2](/artos2.PNG)
-<p align="center">
-Dark Theme ?
-</p>
+### ScreenShoot Of Previous Version (1.0 Antelope Canyon)
+![DevStateAntelope](/artos-antelope.PNG)
 
-### ArtOS Antelope Canyon Relases Dates
+### ArtOS Version History
 | Version  | Relase Date |
 | ------------- | ------------- |
-| Developper Alpha | Go watch my podcast : https://www.youtube.com/watch?v=H-UMOp5rxIM |
-| Beta 1 & Developper Alpha | May |
-| Beta 2  | June  |
-| Some Other Betas | --/--/--  |
-| 1.0  | 2022 - 2023 |
+| 1.0 Antelope Canyon | Later this year |
+| 1.1 Majorque | End of 2022 / 2023 |
 
-### For Developpers
-An beta version of MakeAnApp will be distributed later this year. Alternatively you can use Visual Studio or other an IDE.
+## ArtOS 1.1 Majorque : Why ?
+I started the development of the next version: CloOS Majorca (1.1), because Antelope Canyon (1.0) had serious problems in the kernel and in its development kit. ArtOS has also changed its name from ArtOS to CloOS.
+Version 1.1 Majorca will contain all the features of Antelope Canyon plus new features such as Dynamic Wall, which allows looping videos to be displayed as wallpaper.
+I released an unfinished version of ArtOS 1.0 later in the year, this one will not receive an update, the OS will contain unfinished or buggy features. 
 
 ### See ArtOS Servers Issue(s)
 You can see all issue(s) linked to the ArtOS's servers here : [ArtOS Servers Status](https://artos-developper.github.io/ArtOS-Status/).
@@ -27,4 +22,4 @@ You can see the developpement Progress at [this page](http://github.com/users/Ar
 
 And with this progress bar... :)
 
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/65)
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/2)
